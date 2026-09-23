@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6916e6ed43c7ab7600e9019a",
+  "owner": "wyeueuajy",
+  "repo": "page-bf8a3be37c08cd7e39a322e6",
+  "title": "Allegro",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bf8a3be37c08cd7e39a322e6",
+      "a": "Allegro",
+      "b": "2027最新官网",
+      "entity": "Allegro",
+      "brand": "Allegro",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1f2fe135850d8c3e4eb8138588ca5f003a5aba93bd589f1d4325ac8c45ad636f",
+      "content": {
+        "primary_entity": "Allegro",
+        "keyword1": "Allegro",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，再导入订阅信息。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档完成订阅配置，即可开始使用 Allegro 加速服务。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。Allegro 提供基础版、旗舰版与团队版三档方案，分别支持 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB 不等。旗舰版加入 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版则提供 VIP 专属高带宽节点与企业定制路由。按年付可分别以 ¥150/年、¥350/年、¥850/年获得，适合个人、家庭与协作团队按规模挑选。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型出发，匹配个人或团队使用强度。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，带 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，可搭配企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻度个人使用",
+          "AI_FEATURE_TITLE_2": "影音与游戏兼顾",
+          "AI_FEATURE_TITLE_3": "多设备团队协作",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Allegro 提供基础版、旗舰版与团队版三档海外加速方案，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB。按设备数量与使用场景选择套餐，再参照对应客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付低至 ¥150 起",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏延迟",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别只需 ¥150/年、¥350/年、¥850/年。设备数与月流量随档位递增，旗舰版以上提供专线与流媒体解锁。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线的设备数量和每月流量需求，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认操作系统、设备权限与网络环境符合说明。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成连接设置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Allegro 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Allegro 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按设备数量与月流量需求选择。3 台设备以内且月用 100GB 可选基础版；5 台设备、月用 300GB 并需要游戏优化可选旗舰版；20 台设备、月用 1000GB 可选团队版。",
+          "AI_FAQ_QUESTION_2": "一台订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过对应设备数时，可先断开不用的设备再连接，或升级到更高档套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格低于按月累计。基础版年付约 150 元，旗舰版约 350 元，团队版约 850 元，对应月付分别为 15 元、35 元和 85 元。",
+          "AI_FAQ_QUESTION_4": "应该用哪个客户端？",
+          "AI_FAQ_ANSWER_4": "根据设备系统选择。Windows 可用 Clash 或 v2rayN，macOS 可用 Stash 或 Surge，iOS 可用 Shadowrocket 或 Stash，Android 可用 sing-box 等。具体兼容情况参考对应客户端文档。",
+          "AI_FAQ_QUESTION_5": "订阅配置后无法连接怎么办？",
+          "AI_FAQ_ANSWER_5": "先确认设备数量未超过套餐限制，再检查订阅信息是否完整复制，然后按客户端文档核对协议与端口设置。仍无法连接时，可提交工单获取支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "naisiyunjc.com",
+    "host": "naisiyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "6b58cca2e4a4e6e70602e981b7d0182ea0a6a9a637ab08720993a8d3bd2bce7e",
+    "sitemap.xml": "9522b4d2da621f24d4bb56b961ef529656d30819323b25b85142f1a5807e7928",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fa94cef95da65ad973a6eb9c0c934b27e96e4a83761d456f988198802fb4ecca",
+    "robots.txt": "a7faca0dbcb038037077491a4ea9c4ef80b2edc8e1bd4077e55e001f8df2c8ff",
+    "ee74c3a085cb3eb00c56d4a6d1d1649a.txt": "ab9a5991e64677cde4b9b0459e363ec260de54918a3f3e91e6b803f79b16477f"
+  },
+  "revision": "44af4b05be0580c96c30bd1e574d09f0ea9fb312178df0e8cc8ea5782b052fc0"
+}
